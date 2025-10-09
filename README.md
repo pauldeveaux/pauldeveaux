@@ -45,5 +45,5 @@
 
 ## 🌐 Find Me Online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-deveaux-7a731a202/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.paul-deveaux.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=white)](https://www.paul-deveaux.fr)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.deveaux1@gmail.com)
