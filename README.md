@@ -6,7 +6,7 @@
 
 ---
 
-![AI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFvOW5idWJ0MTNjaWY2M2NhOW4ydmRtZ2l5eDM3N2w0ajdwMXhjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iWlB1fdVTQyhQsymct/giphy.gif)
+![AI](https://media.giphy.com/media/iWlB1fdVTQyhQsymct/giphy.gif)
 
 ## 🚀 Tech Stack & Tools
 
